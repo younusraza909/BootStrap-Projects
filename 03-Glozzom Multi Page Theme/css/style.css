@@ -68,3 +68,18 @@ body{
 #video-play a{
     color: #fff;
 }
+
+/*ABOUT PAGE CSS */
+#page-header{
+    height: 200px;
+    background: url(../images/image1.jpg);
+    background-position: 0px -360px;
+    background-attachment: fixed;
+    color: #fff;
+    border-bottom: 1px #eee solid;
+    padding-top: 50px;
+}
+
+.about-img{
+    margin-top:-50px;
+}
